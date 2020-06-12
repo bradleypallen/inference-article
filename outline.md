@@ -20,7 +20,7 @@
 
 ### Launch at AAAI84
 
-## Applications successes
+## Applications successes and rapid growth
 
 ### Early adoption of expert systems technologies
 
@@ -30,7 +30,7 @@
 
 #### American Airlines
 
-### Investment by Ford Corporation
+### Investment by Ford Motor Corporation
 
 ## The decline of the expert systems market and the onset of the "AI winter"
 
