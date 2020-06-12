@@ -55,3 +55,7 @@
 ## IPO and acquisition by eGain
 
 ## Retrospective assessment: the role of the expert systems company in the evolution of artificial intelligence
+
+## Acknowledgements
+
+## References
