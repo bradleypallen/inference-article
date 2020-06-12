@@ -48,9 +48,11 @@
 
 ### Traction in the emerging customer relationship management market
 
-### Compaq
+#### Compaq
 
-### GTE
+#### GTE
+
+#### Microsoft and Project Cairo
 
 ## IPO and acquisition by eGain
 
