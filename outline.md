@@ -7,7 +7,7 @@ Inference was originally started as Cognitive Systems Corporation by Alexander J
 Chuck Williams was a young researcher at USC ISI. Alex Jacobson was a senior executive at Hughes Research, with roots in the Caltech community.
 
 ### Work on natural language understanding at CDC
-Jacobson and Williams obtained a contract from CDC to prototype a natural language interface. Work on this project created much of the incentive and many of the technical ideas around expert systems reasoning and knowledge representation embodied in Inference's products.
+In 1979, Jacobson and Williams obtained a contract from CDC to prototype a natural language interface. Work on this project created much of the incentive and many of the technical ideas around expert systems reasoning and knowledge representation embodied in Inference's products.
 
 ### Involvement with Wolfram and the development of SMP
 As an additional business line, to provide a source of revenue to support the  project, Jacobson worked with Steven Wolfram of Caltech to build and productize a computer algebra system created by Wolfram, called SMP. The relationship was difficult to manage, and SMP would eventually lead Wolfram to establish his own company Mathematica, which carries forward many of the ideas initially build into SMP. The time spent on building a team to support SMP brought many talented technologists to Inference.
@@ -19,28 +19,34 @@ The work on building a natural language understanding system yielded a great dea
 The tools were built on top of Lisp, and the emergence of specialized hardware and workstation environments for Lisp application development was seen as a way to dramatically improve developer productivity. Jacobson and Williams got involved with the MIT-based efforts in building Lisp machines, and were directly involved in the founding of Lisp Machines Incorporated (LMI), one of the two startups out of MIT to deliver Lisp machines to the market.
 
 ## The "Gang of Four" and the dawn of the expert systems market
-Motivated by governmental and defense initiatives in the industrialization of artificial intelligence, interest in the venture capital community in the creation of startups to deliver products in support of those initiatives, and the glamor associated with the "thinking machine" trope, a number of expert systems companies formed around the period from 1982 to 1985. Inference was one of the initial "Gang of Four" venture-funded expert systems startups, and the only one not directly associated with Stanford University and based in the Bay Area.
+Motivated by governmental and defense initiatives in the industrialization of artificial intelligence, interest in the venture capital community in the creation of startups to deliver products in support of those initiatives, and the glamor associated with the "thinking machine" trope, a number of expert systems companies formed around the period from 1982 to 1985. Inference was one of the initial "Gang of Four" venture-funded expert systems startups, joined by Intelligenetics, Teknowledge and Inference was the only such company not directly associated with Stanford University and based in the Bay Area.
 
 ### Venture funding by Venrock
-Alex Jacobson managed to close an investment round with Venrock, with Tony Sun of Venrock taking a seat on the board. This was the initial capital infusion that allowed Inference to begin to build the team that would deliver ART to market.
+In 1983, Alex Jacobson managed to close an investment round with Venrock, with Tony Sun of Venrock taking a seat on the board. This was the initial capital infusion that allowed Inference to begin to build the team that would deliver ART to market. Chuck Williams and his team demonstrated Axiom, an initial version of a expert systems shell, and the first to incorporate an assumption-based truth maintenance system (ATMS), that together with a forward- and backwards-chaining inference engine supported the ability to do hypothetical reasoning. Recruiting of a technology team to be led by Williams began in earnest, but was challenging due to the scarcity of developers familiar with the key technologies.
 
-### Growth of the technical team and the development of the Automated Reasoning Tool
-
-### Launch at AAAI84
+### Growth of the technical team and the launch of the Automated Reasoning Tool
+A team of expert systems technologists (Brad Allen, Mark Wright, and Paul Haley) were recruited from Carnegie Mellon and joined the team in Los Angeles starting in February 1984, with the goal of being able to launch a ART at the AAAI84 Conference in Austin, Texas in August. Working on a set of Symbolics lisp machines, the team made substantial architectural changes and innovations while creating one of the first hybrid knowledge engineering environments (combining rules, structured objects, facts and truth maintenance) in time for the conference debut.
 
 ## Applications successes and rapid growth
+The interest by the American government and military in expert systems and artifical intelligence technologies, prompted by the ongoing Cold War and the perception of a economic challenge from Japan, led to a period of significant demand for expert systems tools and consulting services. The success of the company during this period was accompanied by growth in annual revenue to approximately $10 million. Williams established an advisory board composed of a number of leaders in the AI community, including Doug Lenat, John McCarthy, and Gerry Sussman.
 
 ### Early adoption of expert systems technologies
+During the period from 1984 to 1986, Inference engaged with a number of early adopters to build expert systems using ART. A professional services organization under Phil Klahr took shape, and several of the systems built by this team would be recognized as early successes in the commercial application of expert systems.
 
 #### NASA
+The NAVEX system, built jointly with technologists at the Mission Planning and Analysis Division at NASA's Johnson Space Center, was a rules-based expert system that automated the decision of when to restart the extended Kalman Filter model used for real-time prediction of Space Shuttle trajectories during launch.
 
 #### American Express
+The Authorizer's Assistant, built for American Express, automated the decision process associated with the real-time determination of whether or not to approve a charge on a customer's credit card.
 
 #### American Airlines
+An Inference team worked closely with American Airlines to develop a knowledge-based approach to aircraft flight scheduling.
 
 ### Investment by Ford Motor Corporation
+In 1986, Ford determined that expert systems technology was going to be an important part of its future products, and invested $6 million in Inference. Ted Marr assumed the position
 
 ## The decline of the expert systems market and the onset of the "AI winter"
+By 1988, it began to become clear that the initial burst of adoption and investment in expert systems technology, driven largely by the US military, was commerically unsustainable. Barriers to adoption in mainstream commercial enterprises included the cost and effort involved in integrating special hardware into traditional mainframe business systems, the cost and scarcity of developers capable of using expert systems technology effectively, and the brittle nature of even the most successful applications.
 
 ### Barriers to adoption by mainstream enterprises
 
