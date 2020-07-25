@@ -19,7 +19,7 @@ The work on building a natural language understanding system yielded a great dea
 The tools were built on top of Lisp, and the emergence of specialized hardware and workstation environments for Lisp application development was seen as a way to dramatically improve developer productivity. Jacobson and Williams got involved with the MIT-based efforts in building Lisp machines, and were directly involved in the founding of Lisp Machines Incorporated (LMI), one of the two startups out of MIT to deliver Lisp machines to the market.
 
 ## The "Gang of Four" and the dawn of the expert systems market
-Motivated by governmental and defense initiatives in the industrialization of artificial intelligence, interest in the venture capital community in the creation of startups to deliver products in support of those initiatives, and the glamor associated with the "thinking machine" trope, a number of expert systems companies formed around the period from 1982 to 1985. Inference was one of the initial "Gang of Four" venture-funded expert systems startups, joined by Intelligenetics, Teknowledge and Inference was the only such company not directly associated with Stanford University and based in the Bay Area.
+Motivated by governmental and defense initiatives in the industrialization of artificial intelligence, interest in the venture capital community in the creation of startups to deliver products in support of those initiatives, and the glamor associated with the "thinking machine" trope, a number of expert systems companies formed around the period from 1982 to 1985. Inference was one of the initial "Gang of Four" venture-funded expert systems startups, joined by Intelligenetics, Teknowledge and Carnegie Group.
 
 ### Venture funding by Venrock
 In 1983, Alex Jacobson managed to close an investment round with Venrock, with Tony Sun of Venrock taking a seat on the board. This was the initial capital infusion that allowed Inference to begin to build the team that would deliver ART to market. Chuck Williams and his team demonstrated Axiom, an initial version of a expert systems shell, and the first to incorporate an assumption-based truth maintenance system (ATMS), that together with a forward- and backwards-chaining inference engine supported the ability to do hypothetical reasoning. Recruiting of a technology team to be led by Williams began in earnest, but was challenging due to the scarcity of developers familiar with the key technologies.
@@ -43,16 +43,19 @@ The Authorizer's Assistant, built for American Express, automated the decision p
 An Inference team worked closely with American Airlines to develop a knowledge-based approach to aircraft flight scheduling.
 
 ### Investment by Ford Motor Corporation
-In 1986, Ford determined that expert systems technology was going to be an important part of its future products, and invested $6 million in Inference. Ted Marr assumed the position
+In 1986, Ford determined that expert systems technology was going to be an important part of its future products, and invested $6 million in Inference. At the urging of the Inference board, Ted Marr assumed the position of CEO, and Alex Jacobson moved into the position of Chairman.
 
 ## The decline of the expert systems market and the onset of the "AI winter"
-By 1988, it began to become clear that the initial burst of adoption and investment in expert systems technology, driven largely by the US military, was commerically unsustainable. Barriers to adoption in mainstream commercial enterprises included the cost and effort involved in integrating special hardware into traditional mainframe business systems, the cost and scarcity of developers capable of using expert systems technology effectively, and the brittle nature of even the most successful applications.
+By the start of the nineteen-nineties, it began to become clear that the initial burst of adoption and investment in expert systems technology, driven largely by the US military, was commerically unsustainable.
 
 ### Barriers to adoption by mainstream enterprises
+Barriers to adoption in mainstream commercial enterprises included the cost and effort involved in integrating special hardware into traditional mainframe business systems, the cost and scarcity of developers capable of using expert systems technology effectively, and the brittle nature of even the most successful applications.
 
 ### The purchase of Expertech and growth of Inference Europe
+In 1987, Inference purchased Expertech, to give it a foothold in the European market and rule-based expert systems shell that was simpler to use and deploy than ART.
 
 ### The development of CLIPS, ART-Enterprise and ART-IM
+Convinced of the utility of hybrid expert systems languages and shells like ART, but frustrated by the high costs of the commercial software licenses provided by the expert systems vendors and the specialized Lisp machines needed to use them, a team at NASA Johnson built an expert systems language called CLIPS using the C programming language, adopting much of the syntax and functionality of ART, and releasing it as an early example of open source software. Rather than fight this development as an act of intellectual property infringement, Inference instead embraced CLIPS, modified and rebranded it as ART-IM. The more fully-featured LISP-based version of ART was reengineered to make it work on Unix workstations in additional to the range of LISP machines to which it was initially limited, and rebranded as ART-Enterprise. This gave the professional services team the ability to deploy expert systems on Unix workstations and Intel-based personal computers, which were beginning to emerge into broader use in mainstream commercial enterprises.
 
 ## Pivoting to the customer support market
 
