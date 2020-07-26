@@ -87,11 +87,21 @@ Inference unfolded over a twenty year period that saw a complete boom-and-bust c
 ### The role of the expert systems company in the evolution of artificial intelligence
 The experience of the expert systems companies during the period from 1985 to 1990 showed that initial enthusiasm from early adopters did not establish an indubitable value for the technology in the broader enterprise market. Those companies that managed to take their original products and find an application area where value was demonstrable survived, and with the customer service market Inference was one such company. This can be viewed as an example of what today is addressed as achieving the correct product/market fit.
 
-Expert systems failed to usher in a golden era of intelligent assistants working hand in hand with people. One cause was the barrier of adoption posed by the tremendous gulf between the Lisp machine and the mainframe computing platforms, but over the nineties that issue was addressed with the emergence of expert system shells written for the PC/Windows and Web platforms. Unfortunately, the expert systems approach to the knowledge engineering of decision making processes turned out to be brittle and labor-intensive to grow and support a wide range of use cases. 
+Expert systems failed to usher in a golden era of intelligent assistants working hand in hand with people. One cause was the barrier of adoption posed by the tremendous gulf between the Lisp machine and the mainframe computing platforms, but over the nineties that issue was addressed with the emergence of expert system shells written for the PC/Windows and Web platforms. Unfortunately, the expert systems approach to the knowledge engineering of decision making processes turned out to be brittle and labor-intensive to grow and support a wide range of use cases.
 
 However, the emergence in the twenty-tens of scalable and productionized machine learning approaches to the creation and maintenance of predictive models and object recognition systems began  to yield significant successes in avoiding the knowledge engineering bottleneck, but for applications closer to acts of perception, rather than human judgement. In addition, the requirement for vast amounts of clean, curated data necessary to build such applications has shifted the costs and risks in building intelligent assistants from knowledge engineers to data engineers. There is currently debate about the degree to which purely deep-learning based applications need some degree of task-specific data- and knowledge-engineering to avoid the brittleness of the earlier expert systems era.
 
-
 ## Acknowledgements
+* _A list of collaborators, which may be large if this becomes a crowd-sourced narrative._
+* _Chuck Williams' inspiration, technical leadership and legacy after his untimely death should be specifically called out._
 
 ## References
+_To include materials from:_
+* _AI Magazine_
+* _Rise of the Expert Company_
+* _Trade publications_
+* _CLIPS Manual_
+* _IAAI Proceedings_
+* _Other Nii/Fiegenbaum materials_
+* _Discussions with and materials from Inference alumni, especially that pertains to the financial performance, structure, and owenership of the company_
+* _Business media (Forbes, NYT, etc.)_
