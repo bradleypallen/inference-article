@@ -46,30 +46,36 @@ An Inference team worked closely with American Airlines to develop a knowledge-b
 In 1986, Ford determined that expert systems technology was going to be an important part of its future products, and invested $6 million in Inference. At the urging of the Inference board, Ted Marr assumed the position of CEO, and Alex Jacobson moved into the position of Chairman.
 
 ## The decline of the expert systems market and the onset of the "AI winter"
-By the start of the nineteen-nineties, it began to become clear that the initial burst of adoption and investment in expert systems technology, driven largely by the US military, was commerically unsustainable.
+By the start of the nineteen-nineties, it began to become clear that the initial burst of adoption and investment in expert systems technology, driven largely by the US military, was commerically unsustainable. The original "Gang of Four" companies began to be disrupted by a newer generation of expert systems shell vendors delivering solutions natively built for either the Intel/Microsoft or Apple platforms, at a substantially lower price point that the original generation of expert systems shells.
 
 ### Barriers to adoption by mainstream enterprises
 Barriers to adoption in mainstream commercial enterprises included the cost and effort involved in integrating special hardware into traditional mainframe business systems, the cost and scarcity of developers capable of using expert systems technology effectively, and the brittle nature of even the most successful applications.
 
 ### The purchase of Expertech and growth of Inference Europe
-In 1987, Inference purchased Expertech, to give it a foothold in the European market and rule-based expert systems shell that was simpler to use and deploy than ART.
+In 1987, Inference purchased Expertech, to give it a foothold in the European market and rule-based expert systems shell that was simpler to use and deploy than ART. Peter Price and his team joined the company as a result, and Inference began to actively expand in the European market.
 
 ### The development of CLIPS, ART-Enterprise and ART-IM
-Convinced of the utility of hybrid expert systems languages and shells like ART, but frustrated by the high costs of the commercial software licenses provided by the expert systems vendors and the specialized Lisp machines needed to use them, a team at NASA Johnson built an expert systems language called CLIPS using the C programming language, adopting much of the syntax and functionality of ART, and releasing it as an early example of open source software. Rather than fight this development as an act of intellectual property infringement, Inference instead embraced CLIPS, modified and rebranded it as ART-IM. The more fully-featured LISP-based version of ART was reengineered to make it work on Unix workstations in additional to the range of LISP machines to which it was initially limited, and rebranded as ART-Enterprise. This gave the professional services team the ability to deploy expert systems on Unix workstations and Intel-based personal computers, which were beginning to emerge into broader use in mainstream commercial enterprises.
+Convinced of the utility of hybrid expert systems languages and shells like ART, but frustrated by the high costs of the commercial software licenses provided by the expert systems vendors and the specialized Lisp machines needed to use them, a team at NASA Johnson built an expert systems language called CLIPS using the C programming language, adopting much of the syntax and functionality of ART, and releasing it as an early example of open source software. Rather than fight this development as an act of intellectual property infringement, Inference instead embraced CLIPS, modified and rebranded it as ART-IM. The more fully-featured LISP-based version of ART was reengineered to make it work on Unix workstations in additional to the range of LISP machines to which it was initially limited, and rebranded as ART-Enterprise. This gave the professional services team the ability to deploy expert systems on Unix workstations and Intel-based personal computers, which were beginning to emerge into broader use in mainstream commercial enterprises. Ted Marr left the company, and the board brought in Peter Tierney, an experienced senior marketing executive from Oracle Corporation, to lead the company at this time.
 
 ## Pivoting to the customer support market
+One application area where expert systems had shown promise was in providing decision-making support to customer service representatives. The Authorizer's Assistant was an example of that type of application. However, the issue of the scarcity of knowledge engineers and the difficult of the knowledge acquisition process worked againset rapid adoption. Inderence made efforts to develop a simple rules-based expert system shell for customer support built on ART-im for the personal computer, but then began to focus on case-based reasoning as a way to reduce the costs of both knowledge engineering and knowledge acquisition.
 
 ### The development of CBR Express
 
-### Spinning out ART-Enterprise as Brightware
-
 ### Traction in the emerging customer relationship management market
+The customer relationship management market began to take shape in the early nineties, and companies such as Clarify and Vantive began to offer broader solutions that those provided by tools like CBR Express.
 
 #### Compaq
+Compaq used CBR Express to develop a help desk assistant for its PC manufacturing business.
 
 #### GTE
+GTE used CBR Express to create a help desk application for its phone service customer support teams.
 
 #### Microsoft and Project Cairo
+Work was done under contract to Microsoft to begin to incorporate information retrieval capabilities rooted in CBR Express development into the in-development Cairo version of the Windows NT product. Inference consulants worked closely with Cairo developers for two years, at the end of which an exclusive license was sold to Microsoft for the use of the retrieval technology in future versions of Windows operating systems, but with the failure of the Cairo project, the technology never saw public distribution. 
+
+### Spinning out ART-Enterprise as Brightware
+As the CBR Express revenue grew and began to outpace the revenue coming in from the traditional expert systems shell market, it became clear to management that
 
 ## IPO and acquisition by eGain
 
