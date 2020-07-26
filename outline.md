@@ -61,6 +61,7 @@ Convinced of the utility of hybrid expert systems languages and shells like ART,
 One application area where expert systems had shown promise was in providing decision-making support to customer service representatives. The Authorizer's Assistant was an example of that type of application. However, the issue of the scarcity of knowledge engineers and the difficult of the knowledge acquisition process worked againset rapid adoption. Inderence made efforts to develop a simple rules-based expert system shell for customer support built on ART-im for the personal computer, but then began to focus on case-based reasoning as a way to reduce the costs of both knowledge engineering and knowledge acquisition.
 
 ### The development of CBR Express
+A simple application for the Intel/Windows platform was written that provided a way for customer service representatives to create and retrieve product problem / customer solution pairs in the context of real-time customer support, which at that time was typically implemented using a call center.
 
 ### Traction in the emerging customer relationship management market
 The customer relationship management market began to take shape in the early nineties, and companies such as Clarify and Vantive began to offer broader solutions that those provided by tools like CBR Express.
@@ -72,16 +73,24 @@ Compaq used CBR Express to develop a help desk assistant for its PC manufacturin
 GTE used CBR Express to create a help desk application for its phone service customer support teams.
 
 #### Microsoft and Project Cairo
-Work was done under contract to Microsoft to begin to incorporate information retrieval capabilities rooted in CBR Express development into the in-development Cairo version of the Windows NT product. Inference consulants worked closely with Cairo developers for two years, at the end of which an exclusive license was sold to Microsoft for the use of the retrieval technology in future versions of Windows operating systems, but with the failure of the Cairo project, the technology never saw public distribution. 
+Work was done under contract to Microsoft to begin to incorporate information retrieval capabilities rooted in CBR Express development into the in-development Cairo version of the Windows NT product. Inference consulants worked closely with Cairo developers for two years, at the end of which an exclusive license was sold to Microsoft for the use of the retrieval technology in future versions of Windows operating systems, but with the failure of the Cairo project, the technology never saw public distribution.
 
-### Spinning out ART-Enterprise as Brightware
-As the CBR Express revenue grew and began to outpace the revenue coming in from the traditional expert systems shell market, it became clear to management that
+### Spinning out Brightware and Limbex
+As the CBR Express revenue grew and began to outpace the revenue coming in from the traditional expert systems shell market, it became clear to management and the board that there was an window during which to take the company public, and that would necessitate focusing on the CRM market, and abandoning the original expert systems shell market. Chuck Williams, however, felt strongly that there was still an significant opportunity with the original business model, and ART-Enterprise and a portion of the development, sales and marketing teams where spun out as new company called Brightware. At roughly the same time, Alex Jacobson and Brad Allen spun out a new company called Limbex, funded by Quarterdeck Corporation and with equity position being held by both Quarterdeck and Inference, using concepts emerging from the development of the Project Cairo effort and CBR Express to deliver a search assistant for the emerging consumer Internet.
 
 ## IPO and acquisition by eGain
+Inference succesfully went public in 1996. Within a few years, with heavy competition from other CRM vendors with more fully-realized products, growth stagnated again. The company was sold to eGain, another CRM vendor, in 2000.
 
 ## Retrospective assessment
+Inference unfolded over a twenty year period that saw a complete boom-and-bust cycle in the artificial intelligence applications market. The same period saw the emergence of the PC and Unix workstation/server platforms, the Microsoft Windows near-monopoly, and the birth of the Web. After the initial optimism over expert systems technology faded, the company successfully pivoted into providing intelligent assistance in the customer relationship management market, where it experienced a second brief period of growth before its ultimate sale to eGain.
 
 ### The role of the expert systems company in the evolution of artificial intelligence
+The experience of the expert systems companies during the period from 1985 to 1990 showed that initial enthusiasm from early adopters did not establish an indubitable value for the technology in the broader enterprise market. Those companies that managed to take their original products and find an application area where value was demonstrable survived, and with the customer service market Inference was one such company. This can be viewed as an example of what today is addressed as achieving the correct product/market fit.
+
+Expert systems failed to usher in a golden era of intelligent assistants working hand in hand with people. One cause was the barrier of adoption posed by the tremendous gulf between the Lisp machine and the mainframe computing platforms, but over the nineties that issue was addressed with the emergence of expert system shells written for the PC/Windows and Web platforms. Unfortunately, the expert systems approach to the knowledge engineering of decision making processes turned out to be brittle and labor-intensive to grow and support a wide range of use cases. 
+
+However, the emergence in the twenty-tens of scalable and productionized machine learning approaches to the creation and maintenance of predictive models and object recognition systems began  to yield significant successes in avoiding the knowledge engineering bottleneck, but for applications closer to acts of perception, rather than human judgement. In addition, the requirement for vast amounts of clean, curated data necessary to build such applications has shifted the costs and risks in building intelligent assistants from knowledge engineers to data engineers. There is currently debate about the degree to which purely deep-learning based applications need some degree of task-specific data- and knowledge-engineering to avoid the brittleness of the earlier expert systems era.
+
 
 ## Acknowledgements
 
