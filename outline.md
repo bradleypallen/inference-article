@@ -1,4 +1,7 @@
-# Inference Corporation: From Expert Systems Shells to Customer Support Applications 
+# Inference Corporation: From Expert Systems Shells to Customer Support Applications
+
+## Abstract
+Founded in 1978, Inference Corporation was organized under the hypothesis that developers building expert systems needed rich, featureful knowledge engineering shells to succeed. Over the subsequent 22 years, the company worked to build and expert systems, along the way creating many different ways to bring such shells to market, and build a services business that helped enterprises tap the benefits of such systems. But achieving true, scalable market growth proved difficult to achieve, and in the early nineties, as the AI Winter began, the company shifted to a focus on a tool that provided intelligent support for customer service organizations, and was able to achieve a public offering as a result, spinning off the original technology. We recount the history of Inference and the people involved with founding and running the company, and discuss how the lessons of Inference may be relevant to the AI companies of the present era.
 
 ## Early years
 Inference was originally started as Systems Cognition Corporation by Alexander Jacobson of Hughes Research and Chuck Williams of USC ISI, who teamed up to attempt to tackle the problem of building a usable natural language user interface to relational databases.
