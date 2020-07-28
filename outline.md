@@ -1,4 +1,4 @@
-# Inference Corporation &mdash; From Hybrid Expert Systems Shells to
+# Inference Corporation: From Expert Systems Shells to Customer Support Applications 
 
 ## Early years
 Inference was originally started as Systems Cognition Corporation by Alexander Jacobson of Hughes Research and Chuck Williams of USC ISI, who teamed up to attempt to tackle the problem of building a usable natural language user interface to relational databases.
