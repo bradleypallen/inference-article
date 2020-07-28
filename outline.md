@@ -1,7 +1,7 @@
-# Inference Corporation &mdash; 1978 to 2000
+# Inference Corporation &mdash; From Hybrid Expert Systems Shells to
 
 ## Early years
-Inference was originally started as Cognitive Systems Corporation by Alexander Jacobson of Hughes Research and Chuck Williams of USC ISI, who teamed up to attempt to tackle the problem of building a usable natural language user interface to relational databases.
+Inference was originally started as Systems Cognition Corporation by Alexander Jacobson of Hughes Research and Chuck Williams of USC ISI, who teamed up to attempt to tackle the problem of building a usable natural language user interface to relational databases.
 
 ### Origins at USC ISI and Hughes Research
 Chuck Williams was a young researcher at USC ISI. Alex Jacobson was a senior executive at Hughes Research, with roots in the Caltech community.
@@ -89,19 +89,17 @@ The experience of the expert systems companies during the period from 1985 to 19
 
 Expert systems failed to usher in a golden era of intelligent assistants working hand in hand with people. One cause was the barrier of adoption posed by the tremendous gulf between the Lisp machine and the mainframe computing platforms, but over the nineties that issue was addressed with the emergence of expert system shells written for the PC/Windows and Web platforms. Unfortunately, the expert systems approach to the knowledge engineering of decision making processes turned out to be brittle and labor-intensive to grow and support a wide range of use cases.
 
-However, the emergence in the twenty-tens of scalable and productionized machine learning approaches to the creation and maintenance of predictive models and object recognition systems began  to yield significant successes in avoiding the knowledge engineering bottleneck, but for applications closer to acts of perception, rather than human judgement. In addition, the requirement for vast amounts of clean, curated data necessary to build such applications has shifted the costs and risks in building intelligent assistants from knowledge engineers to data engineers. There is currently debate about the degree to which purely deep-learning based applications need some degree of task-specific data- and knowledge-engineering to avoid the brittleness of the earlier expert systems era.
+However, the emergence in the 2010s of scalable and productionized machine learning approaches to the creation and maintenance of predictive models and object recognition systems began  to yield significant successes in avoiding the knowledge engineering bottleneck, but for applications closer to acts of perception, rather than human judgement. In addition, the requirement for vast amounts of clean, curated data necessary to build such applications has shifted the costs and risks in building intelligent assistants from knowledge engineers to data engineers. There is currently debate about the degree to which purely deep-learning based applications need some degree of task-specific data- and knowledge-engineering to avoid the brittleness of the earlier expert systems era.
 
 ## Acknowledgements
 * _A list of collaborators, which may be large if this becomes a crowd-sourced narrative._
 * _Chuck Williams' inspiration, technical leadership and legacy after his untimely death should be specifically called out._
 
 ## References
-_To include materials from:_
-* _AI Magazine_
-* _Rise of the Expert Company_
-* _Trade publications_
+_Cited sources to include:_
+* _Trade publications (AI Magazine, CACM, etc.)_
 * _CLIPS Manual_
 * _IAAI Proceedings_
-* _Other Nii/Fiegenbaum materials_
+* _Nii/Fiegenbaum/McCorduck books (The Fifth Generation, The Rise of the Expert Company, etc.) and other materials_
 * _Discussions with and materials from Inference alumni, especially that pertains to the financial performance, structure, and owenership of the company_
 * _Business media (Forbes, NYT, etc.)_
