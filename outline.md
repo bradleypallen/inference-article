@@ -13,7 +13,7 @@ Chuck Williams was a young researcher at USC ISI. Alex Jacobson was a senior exe
 In 1979, Jacobson and Williams obtained a contract from CDC to prototype a natural language interface. Work on this project created much of the incentive and many of the technical ideas around expert systems reasoning and knowledge representation embodied in Inference's products.
 
 ### Involvement with Wolfram and the development of SMP
-As an additional business line, to provide a source of revenue to support the  project, Jacobson worked with Steven Wolfram of Caltech to build and productize a computer algebra system created by Wolfram, called SMP. The relationship was difficult to manage, and SMP would eventually lead Wolfram to establish his own company Mathematica, which carries forward many of the ideas initially build into SMP. The time spent on building a team to support SMP brought many talented technologists to Inference.
+As an additional business line, to provide a source of revenue to support the  project, Jacobson worked with Steven Wolfram of Caltech to build and productize a computer algebra system created by Wolfram, called SMP. The relationship was difficult to manage, and SMP would eventually lead Wolfram to establish his own company Mathematica, which carries forward many of the ideas initially built into SMP. The time spent on building a team to support SMP brought many talented technologists to Inference.
 
 ### The early development of the expert systems shell
 The work on building a natural language understanding system yielded a great deal of effort in building tools. Eventually the focus shifted to building the tools themselves as a initial step to get software products to market. An initial version of this tool where called Axiom, but it would be renamed to the Automated Reasoning Tool (ART).
@@ -104,5 +104,5 @@ _Cited sources to include:_
 * _CLIPS Manual_
 * _IAAI Proceedings_
 * _Nii/Fiegenbaum/McCorduck books (The Fifth Generation, The Rise of the Expert Company, etc.) and other materials_
-* _Discussions with and materials from Inference alumni, especially that pertains to the financial performance, structure, and owenership of the company_
+* _Discussions with and materials from Inference alumni, especially that pertains to the financial performance, structure, and ownership of the company_
 * _Business media (Forbes, NYT, etc.)_
