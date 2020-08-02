@@ -87,6 +87,12 @@ Inference succesfully went public in 1996. Within a few years, with heavy compet
 ## Retrospective assessment
 Inference unfolded over a twenty year period that saw a complete boom-and-bust cycle in the artificial intelligence applications market. The same period saw the emergence of the PC and Unix workstation/server platforms, the Microsoft Windows near-monopoly, and the birth of the Web. After the initial optimism over expert systems technology faded, the company successfully pivoted into providing intelligent assistance in the customer relationship management market, where it experienced a second brief period of growth before its ultimate sale to eGain.
 
+### ART and its descendents
+NASA's CLIPS' adoption of ART's rule language syntax, itself rooted in the OPS5 production system language, together with its open access licensing, established the defacto standard for production rules syntax in later shells and applications.
+
+### The industrialization of expert systems
+Inference, as did other of the first generation of expert systems companies, delivered working, deployed decision support systems that were effective in performing specific business tasks.
+
 ### The role of the expert systems company in the evolution of artificial intelligence
 The experience of the expert systems companies during the period from 1985 to 1990 showed that initial enthusiasm from early adopters did not establish an indubitable value for the technology in the broader enterprise market. Those companies that managed to take their original products and find an application area where value was demonstrable survived, and within the customer service market, Inference was one such company. This can be viewed as an example of what today is addressed as achieving a correct product/market fit.
 
