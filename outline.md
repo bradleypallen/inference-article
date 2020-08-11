@@ -1,5 +1,8 @@
 # Inference Corporation: From Shells to Applications
 
+Bradley P. Allen  
+Chief Architect, Elsevier   
+
 ## Abstract
 Founded in 1978, Inference Corporation was organized under the hypothesis that developers building expert systems needed rich, featureful knowledge engineering shells to succeed. Over the subsequent 22 years, the company worked to build and deploy expert systems, along the way creating many different such shells to market, and build a services business that helped enterprises tap the benefits of such systems. But achieving true, scalable market growth proved difficult to achieve, and in the early nineties, as the AI Winter began, the company shifted to a focus on a tool that provided intelligent support for customer service organizations, and was able to achieve a public offering as a result, spinning off the original technology. We recount the history of Inference and the people involved with founding and running the company, and discuss how the lessons of Inference may be relevant to the AI companies of the present era.
 
@@ -93,7 +96,7 @@ NASA's CLIPS' adoption of ART's rule language syntax, itself rooted in the OPS5 
 ### The impact of Inference in the industrialization of expert systems
 Inference, as did other of the first generation of expert systems companies, delivered working, deployed decision support systems that were effective in performing specific business tasks. The experience of the expert systems companies during the period from 1985 to 1990 showed that initial enthusiasm from early adopters did not establish an indubitable value for the technology in the broader enterprise market. Those companies that managed to take their original products and find an application area where value was demonstrable survived, and within the customer service market, Inference was one such company. This can be viewed as an example of what today is addressed as achieving a correct product/market fit.
 
-### Parallels and constrasts with the commericalization of deep learning systems
+### Parallels and constrasts with the commercialization of deep learning systems
 Expert systems failed to usher in a golden era of intelligent assistants working hand in hand with people. One cause was the barrier of adoption posed by the tremendous gulf between the Lisp machine and the mainframe computing platforms, but over the nineties that issue was addressed with the emergence of expert system shells written for the PC/Windows and Web platforms. Unfortunately, the expert systems approach to the knowledge engineering of decision making processes turned out to be brittle and labor-intensive to grow and support a wide range of use cases.
 
 However, the emergence in the 2010s of scalable and productionized machine learning approaches to the creation and maintenance of predictive models and object recognition systems began  to yield significant successes in avoiding the knowledge engineering bottleneck, but for applications closer to acts of perception, rather than human judgement. In addition, the requirement for vast amounts of clean, curated data necessary to build such applications has shifted the costs and risks in building intelligent assistants from knowledge engineers to data engineers. There is currently debate about the degree to which purely deep-learning based applications need some degree of task-specific data- and knowledge-engineering to avoid the brittleness of the earlier expert systems era.
@@ -106,6 +109,7 @@ There are some shallow similarities between the expert systems era and the deep 
 
 ## References
 _Cited sources to include:_
+
 * _Trade publications (AI Magazine, CACM, etc.)_
 * _CLIPS Manual_
 * _IAAI Proceedings_

@@ -1,0 +1,7 @@
+---
+documentclass: scrartcl
+fontsize: 10pt
+geometry:
+  - top=30mm
+  - heightrounded
+---
