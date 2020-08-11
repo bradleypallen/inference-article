@@ -28,7 +28,7 @@ Motivated by governmental and defense initiatives in the industrialization of ar
 In 1983, Alex Jacobson managed to close an investment round with Venrock, with Tony Sun of Venrock taking a seat on the board. This was the initial capital infusion that allowed Inference to begin to build the team that would deliver ART to market. Chuck Williams and his team demonstrated Axiom, an initial version of a expert systems shell, and the first to incorporate an assumption-based truth maintenance system (ATMS), that together with a forward- and backwards-chaining inference engine supported the ability to do hypothetical reasoning. Recruiting of a technology team to be led by Williams began in earnest, but was challenging due to the scarcity of developers familiar with the key technologies.
 
 ### Growth of the technical team and the launch of the Automated Reasoning Tool
-A team of expert systems technologists (Brad Allen, Mark Wright, and Paul Haley) were recruited from Carnegie Mellon and joined the team in Los Angeles starting in February 1984, with the goal of being able to launch a ART at the AAAI84 Conference in Austin, Texas in August. Working on a set of Symbolics Lisp machines, the team made substantial architectural changes and innovations while creating one of the first hybrid knowledge engineering environments (combining rules, structured objects, facts and truth maintenance) in time for the conference debut.
+A team of expert systems technologists (Brad Allen, Mark Wright, and Paul Haley) were recruited from Carnegie Mellon and joined the team in Los Angeles starting in February 1984, with the goal of being able to launch a ART at the AAAI84 Conference in Austin, Texas in August. Working on a set of Lisp machines, the team made substantial architectural changes and innovations while creating one of the first hybrid knowledge engineering environments (combining rules, structured objects, facts and truth maintenance) in time for the conference debut.
 
 ## Applications successes and rapid growth
 Within a few months of the launch of ART, Inference was booking in excess of $1 million per month in revenure, and found consulting services in high demand at rates exceeding $2000 per day per knowledge engineer. The success of the company during this period was accompanied by growth in annual revenue to approximately $20 million per year. Williams established an advisory board composed of a number of leaders in the AI community, including Doug Lenat, John McCarthy, and Gerry Sussman.
@@ -102,7 +102,7 @@ There are some shallow similarities between the expert systems era and the deep 
 
 ## Acknowledgements
 * _A list of collaborators, which may be large if this becomes a crowd-sourced narrative._
-* _Chuck Williams' inspiration, technical leadership and legacy after his untimely death should be specifically called out._
+* _Chuck Williams' inspiration, technical leadership and legacy after his untimely death should be specifically acknowledged._
 
 ## References
 _Cited sources to include:_
